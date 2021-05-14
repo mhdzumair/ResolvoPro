@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+python-multipart
+imutils
+sklearn
+opencv-python
+keras
+tensorflow

@@ -133,3 +133,8 @@ dmypy.json
 
 # vscode
 .vscode/
+
+# ignore some folders
+captcha_error/
+extracted_numbers/
+gray/
